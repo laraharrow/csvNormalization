@@ -20,8 +20,11 @@ You can assume that the input document is in UTF-8 and that any times that are m
 ## Content:
 
 > sample.csv - given file to use as input
+
 > sample-with-broken-utf8.csv - given file to use as input
+
 > CSV.py - file with my code
+
 > README.md 
 
 
