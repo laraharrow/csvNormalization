@@ -36,8 +36,7 @@ Python 2.7.10
 
 where stdin.csv is the file you are passing as input and stdout is the file that will contain the output
 
-
-																								. . .
+														____________________________________
 
 
 Disclosure:
