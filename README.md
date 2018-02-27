@@ -35,9 +35,9 @@ Python 2.7.10
 
 Where:
 
-> CSV.py is the file that contains my Python code
-> stdin.csv is the file you are passing as input
-> stdout.csv is the file that will contain the output (you can pass a existent file or just a file name and the program creates a new file on the directure to store the output)
+- CSV.py is the file that contains my Python code
+- stdin.csv is the file you are passing as input
+- stdout.csv is the file that will contain the output (you can pass a existent file or just a file name and the program creates a new file on the directure to store the output)
 
 
 ## Disclosure:
