@@ -19,19 +19,21 @@ You can assume that the input document is in UTF-8 and that any times that are m
 
 ## Comments:
 
-## Requirement:
-### 	Python 2.7.10
+ Requirement:
+Python 2.7.10
 
 
 ###### clone this repo to your machine
-'''
+```
 	git clone https://github.com/laraismael1/csvNormalization.git
 
-'''
+```
 ###### Runnignthe script:
-'''
+
+```
 	python CSV.py < stdin.csv > stdout.csv
-'''
+```
+
 where stdin.csv is the file you are passing as input and stdout is the file that will contain the output
 
 
