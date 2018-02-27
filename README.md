@@ -33,8 +33,11 @@ Python 2.7.10
 	python CSV.py < stdin.csv > stdout.csv
 ```
 
-Where stdin.csv is the file you are passing as input and stdout is the file that will contain the output
+Where:
 
+> CSV.py is the file that contains my Python code
+> stdin.csv is the file you are passing as input
+> stdout.csv is the file that will contain the output (you can pass a existent file or just a file name and the program creates a new file on the directure to store the output)
 
 
 ## Disclosure:
