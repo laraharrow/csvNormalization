@@ -1,3 +1,7 @@
+import sys
+import csv
+
+
 ### FUNCTIONS TO MANIPULATE DATA
 
 # Edit timeStamp to be ISO-8601 formated and convert time from US/Pacific time to US/Eastern
@@ -101,11 +105,8 @@ data.insert(0, headers)
 for row in data:
   print ','.join(row)
 
-"""
 
-IF MORE TIME: find a way to return a csv file instead of a string
-* look into csv.writer
-
-"""
+# TODO: find a way to return a csv file instead of a string
+# * look into csv.writer
 
 
