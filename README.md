@@ -26,7 +26,6 @@ Python 2.7.10
 ###### clone this repo to your machine
 ```
 	git clone https://github.com/laraismael1/csvNormalization.git
-
 ```
 ###### Runnignthe script:
 
@@ -38,7 +37,7 @@ where stdin.csv is the file you are passing as input and stdout is the file that
 
 
 
-Disclosure:
+## Disclosure:
 
 I'm a JavaScript developer but after some research it seemed reasonable to write this program in Python.
 
