@@ -23,7 +23,7 @@ You can assume that the input document is in UTF-8 and that any times that are m
 Python 2.7.10
 
 
-###### clone this repo to your machine
+###### Clone this repo to your machine
 ```
 	git clone https://github.com/laraismael1/csvNormalization.git
 ```
@@ -33,13 +33,13 @@ Python 2.7.10
 	python CSV.py < stdin.csv > stdout.csv
 ```
 
-where stdin.csv is the file you are passing as input and stdout is the file that will contain the output
+Where stdin.csv is the file you are passing as input and stdout is the file that will contain the output
 
 
 
 ## Disclosure:
 
-I'm a JavaScript developer but after some research it seemed reasonable to write this program in Python.
+* I'm a JavaScript developer but after some research it seemed reasonable to write this program in Python.
 
-This Terminal program was writen in 4 hours as it was one of the requirements so in the code there are a few thigs I would like to add to the code that are now as comments.
+* This Terminal program was writen in 4 hours as it was one of the requirements so in the code there are a few thigs I would like to add to the code that are now as comments.
 
