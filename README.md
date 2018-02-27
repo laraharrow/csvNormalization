@@ -1,5 +1,9 @@
 # CSV-Normalization
 
+> _This is one of the steps in the Truss interview process. If you've
+stumbled upon this repository and are interested in a career with
+Truss, [check out our jobs page](https://truss.works/jobs)._
+
 
 ## Given problem: CSV-normalization
 Please write a tool that reads a CSV formatted file on stdin and emits a normalized CSV formatted file on stdout. Normalized, in this case, means:
