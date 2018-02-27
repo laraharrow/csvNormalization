@@ -38,11 +38,11 @@ You can assume that the input document is in UTF-8 and that any times that are m
 Python 2.7.10
 
 
-###### Clone this repo to your machine
+###### Clone this repo to your machine:
 ```
 	git clone https://github.com/laraismael1/csvNormalization.git
 ```
-###### Runnignthe script:
+###### Run script:
 
 ```
 	python CSV.py < stdin.csv > stdout.csv
